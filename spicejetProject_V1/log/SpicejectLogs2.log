@@ -1,0 +1,319 @@
+2020-05-04 16:52:42,152 [main] INFO spicejet - URL opened
+2020-05-04 16:52:57,283 [main] INFO spicejet - Username entered
+2020-05-04 16:52:57,418 [main] INFO spicejet - Password entered
+2020-05-04 16:53:00,690 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:53:19,926 [main] INFO spicejet - Username entered
+2020-05-04 16:53:20,188 [main] INFO spicejet - Password entered
+2020-05-04 16:53:23,859 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:53:43,463 [main] INFO spicejet - Username entered
+2020-05-04 16:53:43,768 [main] INFO spicejet - Password entered
+2020-05-04 16:53:43,940 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:53:49,656 [main] INFO spicejet - Login failed
+2020-05-04 16:53:49,661 [main] INFO spicejet - Test case passed
+2020-05-04 16:55:20,672 [main] INFO spicejet - URL opened
+2020-05-04 16:55:51,018 [main] INFO spicejet - Username entered
+2020-05-04 16:55:51,212 [main] INFO spicejet - Password entered
+2020-05-04 16:55:54,223 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:56:07,249 [main] INFO spicejet - Username entered
+2020-05-04 16:56:07,504 [main] INFO spicejet - Password entered
+2020-05-04 16:56:10,405 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:56:25,260 [main] INFO spicejet - Username entered
+2020-05-04 16:56:25,429 [main] INFO spicejet - Password entered
+2020-05-04 16:56:25,532 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:56:28,680 [main] INFO spicejet - Login failed
+2020-05-04 16:56:28,681 [main] INFO spicejet - Test case passed
+2020-05-04 16:58:09,565 [main] INFO spicejet - URL opened
+2020-05-04 16:58:17,807 [main] INFO spicejet - Username entered
+2020-05-04 16:58:17,995 [main] INFO spicejet - Password entered
+2020-05-04 16:58:21,113 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:58:34,569 [main] INFO spicejet - Username entered
+2020-05-04 16:58:34,821 [main] INFO spicejet - Password entered
+2020-05-04 16:58:37,783 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:58:51,421 [main] INFO spicejet - Username entered
+2020-05-04 16:58:51,679 [main] INFO spicejet - Password entered
+2020-05-04 16:58:51,832 [main] INFO spicejet - Clicked on login button
+2020-05-04 16:58:55,000 [main] INFO spicejet - Login failed
+2020-05-04 16:58:55,001 [main] INFO spicejet - Test case passed
+2020-05-04 17:00:35,331 [main] INFO spicejet - URL opened
+2020-05-04 17:00:41,671 [main] INFO spicejet - Username entered
+2020-05-04 17:00:41,985 [main] INFO spicejet - Password entered
+2020-05-04 17:00:42,240 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:00:45,440 [main] INFO spicejet - Login failed
+2020-05-04 17:00:45,440 [main] INFO spicejet - Test case passed
+2020-05-04 17:00:49,122 [main] INFO spicejet - Username entered
+2020-05-04 17:00:49,301 [main] INFO spicejet - Password entered
+2020-05-04 17:00:49,411 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:00:52,500 [main] INFO spicejet - Login failed
+2020-05-04 17:00:52,501 [main] INFO spicejet - Test case passed
+2020-05-04 17:00:55,273 [main] INFO spicejet - Username entered
+2020-05-04 17:00:55,437 [main] INFO spicejet - Password entered
+2020-05-04 17:01:00,871 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:01:13,797 [main] INFO spicejet - Username entered
+2020-05-04 17:01:13,968 [main] INFO spicejet - Password entered
+2020-05-04 17:01:18,109 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:01:31,079 [main] INFO spicejet - Username entered
+2020-05-04 17:01:31,223 [main] INFO spicejet - Password entered
+2020-05-04 17:01:34,871 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:04:19,552 [main] INFO spicejet - URL opened
+2020-05-04 17:04:27,529 [main] INFO spicejet - Username entered
+2020-05-04 17:04:27,710 [main] INFO spicejet - Password entered
+2020-05-04 17:04:27,845 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:04:31,063 [main] INFO spicejet - Login failed
+2020-05-04 17:04:31,064 [main] INFO spicejet - Test case passed
+2020-05-04 17:05:47,674 [main] INFO spicejet - URL opened
+2020-05-04 17:05:54,907 [main] INFO spicejet - Username entered
+2020-05-04 17:05:55,133 [main] INFO spicejet - Password entered
+2020-05-04 17:05:55,345 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:05:58,524 [main] INFO spicejet - Login failed
+2020-05-04 17:05:58,525 [main] INFO spicejet - Test case passed
+2020-05-04 17:07:31,260 [main] INFO spicejet - URL opened
+2020-05-04 17:07:40,703 [main] INFO spicejet - Username entered
+2020-05-04 17:07:40,953 [main] INFO spicejet - Password entered
+2020-05-04 17:07:41,136 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:07:44,338 [main] INFO spicejet - Login failed
+2020-05-04 17:07:44,339 [main] INFO spicejet - Test case passed
+2020-05-04 17:09:40,023 [main] INFO spicejet - URL opened
+2020-05-04 17:09:50,582 [main] INFO spicejet - Username entered
+2020-05-04 17:09:50,911 [main] INFO spicejet - Password entered
+2020-05-04 17:09:51,144 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:09:54,369 [main] INFO spicejet - Login failed
+2020-05-04 17:09:54,370 [main] INFO spicejet - Test case passed
+2020-05-04 17:11:11,516 [main] INFO spicejet - URL opened
+2020-05-04 17:11:18,058 [main] INFO spicejet - Username entered
+2020-05-04 17:11:18,336 [main] INFO spicejet - Password entered
+2020-05-04 17:11:18,592 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:11:21,842 [main] INFO spicejet - Login failed
+2020-05-04 17:11:21,842 [main] INFO spicejet - Test case passed
+2020-05-04 17:11:24,433 [main] INFO spicejet - Username entered
+2020-05-04 17:11:24,630 [main] INFO spicejet - Password entered
+2020-05-04 17:11:24,775 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:11:27,850 [main] INFO spicejet - Login failed
+2020-05-04 17:11:27,851 [main] INFO spicejet - Test case passed
+2020-05-04 17:11:50,953 [main] INFO spicejet - Username entered
+2020-05-04 17:11:51,207 [main] INFO spicejet - Password entered
+2020-05-04 17:11:56,804 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:12:16,175 [main] INFO spicejet - Username entered
+2020-05-04 17:12:16,265 [main] INFO spicejet - Password entered
+2020-05-04 17:12:16,398 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:12:29,593 [main] INFO spicejet - Username entered
+2020-05-04 17:12:29,655 [main] INFO spicejet - Password entered
+2020-05-04 17:12:29,756 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:15:52,747 [main] INFO spicejet - URL opened
+2020-05-04 17:16:00,245 [main] INFO spicejet - Username entered
+2020-05-04 17:16:00,507 [main] INFO spicejet - Password entered
+2020-05-04 17:16:00,700 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:16:03,887 [main] INFO spicejet - Login failed
+2020-05-04 17:16:03,887 [main] INFO spicejet - Test case passed
+2020-05-04 17:19:12,090 [main] INFO spicejet - URL opened
+2020-05-04 17:19:21,708 [main] INFO spicejet - Username entered
+2020-05-04 17:19:21,973 [main] INFO spicejet - Password entered
+2020-05-04 17:19:22,176 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:19:25,425 [main] INFO spicejet - Login failed
+2020-05-04 17:19:25,426 [main] INFO spicejet - Test case passed
+2020-05-04 17:19:29,171 [main] INFO spicejet - Username entered
+2020-05-04 17:19:29,335 [main] INFO spicejet - Password entered
+2020-05-04 17:19:29,457 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:19:32,508 [main] INFO spicejet - Login failed
+2020-05-04 17:19:32,508 [main] INFO spicejet - Test case passed
+2020-05-04 17:19:35,455 [main] INFO spicejet - Username entered
+2020-05-04 17:19:35,605 [main] INFO spicejet - Password entered
+2020-05-04 17:19:41,161 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:19:54,318 [main] INFO spicejet - Username entered
+2020-05-04 17:19:54,580 [main] INFO spicejet - Password entered
+2020-05-04 17:19:58,677 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:20:12,180 [main] INFO spicejet - Username entered
+2020-05-04 17:20:12,330 [main] INFO spicejet - Password entered
+2020-05-04 17:20:14,934 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:22:02,873 [main] INFO spicejet - URL opened
+2020-05-04 17:22:09,855 [main] INFO spicejet - Username entered
+2020-05-04 17:22:10,175 [main] INFO spicejet - Password entered
+2020-05-04 17:22:10,420 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:22:24,199 [main] INFO spicejet - Username entered
+2020-05-04 17:22:24,377 [main] INFO spicejet - Password entered
+2020-05-04 17:22:27,142 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:22:30,222 [main] INFO spicejet - Login failed
+2020-05-04 17:22:30,222 [main] INFO spicejet - Test case passed
+2020-05-04 17:22:34,670 [main] INFO spicejet - Username entered
+2020-05-04 17:22:34,904 [main] INFO spicejet - Password entered
+2020-05-04 17:22:39,116 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:22:42,213 [main] INFO spicejet - Login failed
+2020-05-04 17:22:42,213 [main] INFO spicejet - Test case passed
+2020-05-04 17:22:45,021 [main] INFO spicejet - Username entered
+2020-05-04 17:22:45,089 [main] INFO spicejet - Password entered
+2020-05-04 17:22:45,189 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:22:58,112 [main] INFO spicejet - Username entered
+2020-05-04 17:22:58,235 [main] INFO spicejet - Password entered
+2020-05-04 17:22:58,461 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:25:33,966 [main] INFO spicejet - URL opened
+2020-05-04 17:25:44,244 [main] INFO spicejet - Username entered
+2020-05-04 17:25:44,555 [main] INFO spicejet - Password entered
+2020-05-04 17:25:44,775 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:25:47,934 [main] INFO spicejet - Login failed
+2020-05-04 17:25:47,935 [main] INFO spicejet - Test case passed
+2020-05-04 17:25:51,714 [main] INFO spicejet - Username entered
+2020-05-04 17:25:51,912 [main] INFO spicejet - Password entered
+2020-05-04 17:25:52,056 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:25:55,100 [main] INFO spicejet - Login failed
+2020-05-04 17:25:55,100 [main] INFO spicejet - Test case passed
+2020-05-04 17:25:58,697 [main] INFO spicejet - Username entered
+2020-05-04 17:25:58,950 [main] INFO spicejet - Password entered
+2020-05-04 17:26:10,155 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:26:24,181 [main] INFO spicejet - Username entered
+2020-05-04 17:26:24,348 [main] INFO spicejet - Password entered
+2020-05-04 17:26:27,976 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:27:07,761 [main] INFO spicejet - Username entered
+2020-05-04 17:27:07,994 [main] INFO spicejet - Password entered
+2020-05-04 17:27:17,508 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:28:20,684 [main] INFO spicejet - URL opened
+2020-05-04 17:28:29,136 [main] INFO spicejet - Username entered
+2020-05-04 17:28:29,332 [main] INFO spicejet - Password entered
+2020-05-04 17:28:29,462 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:28:32,622 [main] INFO spicejet - Login failed
+2020-05-04 17:28:32,624 [main] INFO spicejet - Test case passed
+2020-05-04 17:59:05,832 [main] INFO spicejet - URL opened
+2020-05-04 17:59:33,487 [main] INFO spicejet - Username entered
+2020-05-04 17:59:33,810 [main] INFO spicejet - Password entered
+2020-05-04 17:59:34,014 [main] INFO spicejet - Clicked on login button
+2020-05-04 17:59:39,835 [main] INFO spicejet - Login failed
+2020-05-04 17:59:39,836 [main] INFO spicejet - Test case passed
+2020-05-04 18:01:29,144 [main] INFO spicejet - URL opened
+2020-05-04 18:01:35,667 [main] INFO spicejet - Username entered
+2020-05-04 18:01:35,955 [main] INFO spicejet - Password entered
+2020-05-04 18:01:36,214 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:01:39,413 [main] INFO spicejet - Login failed
+2020-05-04 18:01:39,414 [main] INFO spicejet - Test case passed
+2020-05-04 18:02:39,070 [main] INFO spicejet - URL opened
+2020-05-04 18:02:46,997 [main] INFO spicejet - Username entered
+2020-05-04 18:02:47,275 [main] INFO spicejet - Password entered
+2020-05-04 18:02:47,403 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:02:50,560 [main] INFO spicejet - Login failed
+2020-05-04 18:02:50,561 [main] INFO spicejet - Test case passed
+2020-05-04 18:02:53,751 [main] INFO spicejet - Username entered
+2020-05-04 18:02:53,865 [main] INFO spicejet - Password entered
+2020-05-04 18:02:53,989 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:02:57,065 [main] INFO spicejet - Login failed
+2020-05-04 18:02:57,066 [main] INFO spicejet - Test case passed
+2020-05-04 18:02:59,988 [main] INFO spicejet - Username entered
+2020-05-04 18:03:00,229 [main] INFO spicejet - Password entered
+2020-05-04 18:03:05,636 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:03:18,772 [main] INFO spicejet - Username entered
+2020-05-04 18:03:19,030 [main] INFO spicejet - Password entered
+2020-05-04 18:03:23,315 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:03:36,059 [main] INFO spicejet - Username entered
+2020-05-04 18:03:36,251 [main] INFO spicejet - Password entered
+2020-05-04 18:03:39,085 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:04:31,786 [main] INFO spicejet - URL opened
+2020-05-04 18:04:39,991 [main] INFO spicejet - Username entered
+2020-05-04 18:04:40,255 [main] INFO spicejet - Password entered
+2020-05-04 18:04:40,429 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:04:43,578 [main] INFO spicejet - Login failed
+2020-05-04 18:04:43,579 [main] INFO spicejet - Test case passed
+2020-05-04 18:04:47,254 [main] INFO spicejet - Username entered
+2020-05-04 18:04:47,479 [main] INFO spicejet - Password entered
+2020-05-04 18:04:47,621 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:04:50,684 [main] INFO spicejet - Login failed
+2020-05-04 18:04:50,684 [main] INFO spicejet - Test case passed
+2020-05-04 18:04:53,992 [main] INFO spicejet - Username entered
+2020-05-04 18:04:54,175 [main] INFO spicejet - Password entered
+2020-05-04 18:04:59,020 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:05:12,054 [main] INFO spicejet - Username entered
+2020-05-04 18:05:12,266 [main] INFO spicejet - Password entered
+2020-05-04 18:05:15,298 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:05:29,723 [main] INFO spicejet - Username entered
+2020-05-04 18:05:29,985 [main] INFO spicejet - Password entered
+2020-05-04 18:05:33,945 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:10:46,843 [main] INFO spicejet - URL opened
+2020-05-04 18:11:19,175 [main] INFO spicejet - Username entered
+2020-05-04 18:11:19,478 [main] INFO spicejet - Password entered
+2020-05-04 18:11:19,677 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:11:24,679 [main] INFO spicejet - Login failed
+2020-05-04 18:11:24,680 [main] INFO spicejet - Test case passed
+2020-05-04 18:13:19,726 [main] INFO spicejet - URL opened
+2020-05-04 18:13:26,360 [main] INFO spicejet - Username entered
+2020-05-04 18:13:26,725 [main] INFO spicejet - Password entered
+2020-05-04 18:13:26,906 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:13:30,151 [main] INFO spicejet - Login failed
+2020-05-04 18:13:30,152 [main] INFO spicejet - Test case passed
+2020-05-04 18:14:24,723 [main] INFO spicejet - URL opened
+2020-05-04 18:14:31,724 [main] INFO spicejet - Username entered
+2020-05-04 18:14:31,902 [main] INFO spicejet - Password entered
+2020-05-04 18:14:32,051 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:14:35,224 [main] INFO spicejet - Login failed
+2020-05-04 18:14:35,224 [main] INFO spicejet - Test case passed
+2020-05-04 18:15:14,903 [main] INFO spicejet - URL opened
+2020-05-04 18:15:23,462 [main] INFO spicejet - Username entered
+2020-05-04 18:15:23,673 [main] INFO spicejet - Password entered
+2020-05-04 18:15:23,813 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:15:26,975 [main] INFO spicejet - Login failed
+2020-05-04 18:15:26,975 [main] INFO spicejet - Test case passed
+2020-05-04 18:16:16,139 [main] INFO spicejet - URL opened
+2020-05-04 18:16:23,782 [main] INFO spicejet - Username entered
+2020-05-04 18:16:24,060 [main] INFO spicejet - Password entered
+2020-05-04 18:16:24,229 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:16:27,422 [main] INFO spicejet - Login failed
+2020-05-04 18:16:27,422 [main] INFO spicejet - Test case passed
+2020-05-04 18:16:30,285 [main] INFO spicejet - Username entered
+2020-05-04 18:16:30,408 [main] INFO spicejet - Password entered
+2020-05-04 18:16:30,532 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:16:33,635 [main] INFO spicejet - Login failed
+2020-05-04 18:16:33,636 [main] INFO spicejet - Test case passed
+2020-05-04 18:16:36,614 [main] INFO spicejet - Username entered
+2020-05-04 18:16:36,919 [main] INFO spicejet - Password entered
+2020-05-04 18:16:56,166 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:17:10,090 [main] INFO spicejet - Username entered
+2020-05-04 18:17:10,397 [main] INFO spicejet - Password entered
+2020-05-04 18:17:23,900 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:17:36,284 [main] INFO spicejet - Username entered
+2020-05-04 18:17:36,425 [main] INFO spicejet - Password entered
+2020-05-04 18:17:39,361 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:18:26,266 [main] INFO spicejet - URL opened
+2020-05-04 18:18:34,265 [main] INFO spicejet - Username entered
+2020-05-04 18:18:34,463 [main] INFO spicejet - Password entered
+2020-05-04 18:18:34,591 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:18:37,745 [main] INFO spicejet - Login failed
+2020-05-04 18:18:37,746 [main] INFO spicejet - Test case passed
+2020-05-04 18:18:40,831 [main] INFO spicejet - Username entered
+2020-05-04 18:18:41,168 [main] INFO spicejet - Password entered
+2020-05-04 18:18:41,321 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:18:44,378 [main] INFO spicejet - Login failed
+2020-05-04 18:18:44,378 [main] INFO spicejet - Test case passed
+2020-05-04 18:18:47,326 [main] INFO spicejet - Username entered
+2020-05-04 18:18:47,479 [main] INFO spicejet - Password entered
+2020-05-04 18:18:52,612 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:19:06,010 [main] INFO spicejet - Username entered
+2020-05-04 18:19:06,133 [main] INFO spicejet - Password entered
+2020-05-04 18:19:11,698 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:19:25,167 [main] INFO spicejet - Username entered
+2020-05-04 18:19:25,324 [main] INFO spicejet - Password entered
+2020-05-04 18:19:29,475 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:22:07,262 [main] INFO spicejet - URL opened
+2020-05-04 18:22:17,454 [main] INFO spicejet - Username entered
+2020-05-04 18:22:17,643 [main] INFO spicejet - Password entered
+2020-05-04 18:22:17,781 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:22:20,959 [main] INFO spicejet - Login failed
+2020-05-04 18:22:20,959 [main] INFO spicejet - Test case passed
+2020-05-04 18:22:25,319 [main] INFO spicejet - Username entered
+2020-05-04 18:22:25,504 [main] INFO spicejet - Password entered
+2020-05-04 18:22:25,643 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:22:28,718 [main] INFO spicejet - Login failed
+2020-05-04 18:22:28,718 [main] INFO spicejet - Test case passed
+2020-05-04 18:22:31,419 [main] INFO spicejet - Username entered
+2020-05-04 18:22:31,662 [main] INFO spicejet - Password entered
+2020-05-04 18:22:37,665 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:22:52,572 [main] INFO spicejet - Username entered
+2020-05-04 18:22:52,731 [main] INFO spicejet - Password entered
+2020-05-04 18:22:55,865 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:23:09,811 [main] INFO spicejet - Username entered
+2020-05-04 18:23:09,979 [main] INFO spicejet - Password entered
+2020-05-04 18:23:18,472 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:31:28,625 [main] INFO spicejet - URL opened
+2020-05-04 18:32:21,255 [main] INFO spicejet - Username entered
+2020-05-04 18:32:21,457 [main] INFO spicejet - Password entered
+2020-05-04 18:32:24,211 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:32:27,373 [main] INFO spicejet - Login failed
+2020-05-04 18:32:27,373 [main] INFO spicejet - Test case passed
+2020-05-04 18:32:33,699 [main] INFO spicejet - Username entered
+2020-05-04 18:32:33,847 [main] INFO spicejet - Password entered
+2020-05-04 18:32:37,124 [main] INFO spicejet - Clicked on login button
+2020-05-04 18:32:40,180 [main] INFO spicejet - Login failed
+2020-05-04 18:32:40,180 [main] INFO spicejet - Test case passed
